@@ -17,7 +17,7 @@ cd dist
 git init
 git add -A
 git commit -m '版本更新1111112'
-git push -f https://github.com/engineer-cv/engineer-cv.github.io.git main
+git push -f git@github.com:engineer-cv/engineer-cv.github.io.git main
 # 如果你想要部署到 https://USERNAME.github.io
 # git push -f git@github.com:AirHua-byte/AirHua-byte.github.io.git main
 
