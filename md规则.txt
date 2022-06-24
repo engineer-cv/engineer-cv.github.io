@@ -1,0 +1,13 @@
+---
+title: vuepress-summary //文章的名字
+date: 2021-04-10  //文章的发布时间
+categories://文章的分类 可以直接在这里创建分类
+ - 博客
+tags:  //文章的标签
+ - vuepress
+sticky: 1  //设置文章置顶
+showSponsor: true //设置打赏
+---
+
+docs文件是博客文章搭建文件
+blogs文件是技术文章文件
