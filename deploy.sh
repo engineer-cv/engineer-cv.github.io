@@ -9,7 +9,7 @@ npm run build
 git init
 git add -A
 git commit -m '版本更新1111112' 
-git push -f https://github.com/engineer-cv/vuepressBlog.git master
+git push -f git@github.com:engineer-cv/blog.git main
 
 cd dist
 # 如果是发布到自定义域名
@@ -17,7 +17,7 @@ cd dist
 git init
 git add -A
 git commit -m '版本更新1111112'
-git push -f https://github.com/engineer-cv/engineer-cv.github.io.git master
+git push -f https://github.com/engineer-cv/engineer-cv.github.io.git main
 # 如果你想要部署到 https://USERNAME.github.io
 # git push -f git@github.com:AirHua-byte/AirHua-byte.github.io.git main
 
