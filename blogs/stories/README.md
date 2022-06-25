@@ -11,8 +11,4 @@ showSponsor: true
 ## vuepress-plugin
 
 - [前端的学习路线](/docs/stories/reading_notes/learn.md)
-- [前端的学习路线](/docs/stories/reading_notes/learn.md)
-- [前端的学习路线](/docs/stories/reading_notes/learn.md)
-- [前端的学习路线](/docs/stories/reading_notes/learn.md)
-- [前端的学习路线](/docs/stories/reading_notes/learn.md)
-- [前端的学习路线](/docs/stories/reading_notes/learn.md)
+- [ts](/docs/stories/reading_notes/ts.md)

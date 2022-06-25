@@ -84,10 +84,7 @@ module.exports = {
       collapsable: true,
       children: [
         "reading_notes/learn.md",
-        "reading_notes/learn.md",
-        "reading_notes/learn.md",
-        "reading_notes/learn.md",
-        "reading_notes/learn.md",
+        "reading_notes/ts.md",
       ]
     },
   ]
