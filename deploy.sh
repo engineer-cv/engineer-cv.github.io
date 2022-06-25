@@ -6,17 +6,17 @@ set -e
 # 生成静态文件
 npm run build
 
-git init
+# git init
 git add -A
-git commit -m '版本更新1111112' 
+git commit -m '版本更新' 
 git push -f git@github.com:engineer-cv/blog.git main
 
 cd dist
 # 如果是发布到自定义域名
-# echo 'www.yourwebsite.com' > CNAME
-git init
+echo 'www.coderwm.com' > CNAME
+# git init
 git add -A
-git commit -m '版本更新1111112'
+git commit -m '版本更新'
 git push -f git@github.com:engineer-cv/engineer-cv.github.io.git main
 # 如果你想要部署到 https://USERNAME.github.io
 # git push -f git@github.com:AirHua-byte/AirHua-byte.github.io.git main
